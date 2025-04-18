@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "position": "All-rounder",
+      "rating": 4.8,
+      "price": "$1.2M",
+      "img_url": "https://i.ibb.co.com/Zzz3KM2F/download.jpg",
+      "behavior": "Calm and tactical"
+    },
+    {
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "position": "Batsman",
+      "rating": 4.5,
+      "price": "$950K",
+      "img_url": "https://i.ibb.co.com/FLjfTM0C/images-5.jpg",
+      "behavior": "Aggressive opener"
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "position": "Bowler",
+      "rating": 4.3,
+      "price": "$850K",
+      "img_url": "https://i.ibb.co.com/m5NbqYHp/images-1.jpg",
+      "behavior": "Cutter specialist"
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "position": "Batsman",
+      "rating": 4.4,
+      "price": "$900K",
+      "img_url": "https://i.ibb.co.com/qM9cmtWw/images-3.jpg",
+      "behavior": "Fiery competitor"
+    },
+    {
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "position": "All-rounder",
+      "rating": 4.2,
+      "price": "$800K",
+      "img_url": "https://i.ibb.co.com/Fb7z8GTR/download-2.jpg",
+      "behavior": "Clutch performer"
+    },
+    {
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "position": "Batsman",
+      "rating": 4.0,
+      "price": "$750K",
+      "img_url": "https://i.ibb.co.com/NXYk5Z9/images-2.jpg",
+      "behavior": "Elegant strokemaker"
+    },
+    {
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "position": "All-rounder",
+      "rating": 4.1,
+      "price": "$780K",
+      "img_url": "https://i.ibb.co.com/m5sLKSnS/images.jpg",
+      "behavior": "Patient spinner"
+    },
+    {
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "position": "Bowler",
+      "rating": 3.9,
+      "price": "$700K",
+      "img_url": "https://i.ibb.co.com/7qqgSbH/images-4.jpg",
+      "behavior": "Pace aggressor"
+    },
+    {
+      "name": "Najmul Hossain Shanto",
+      "country": "Bangladesh",
+      "position": "Batsman",
+      "rating": 3.8,
+      "price": "$680K",
+      "img_url": "https://i.ibb.co.com/WW0N17Ws/images-7.jpg",
+      "behavior": "Solid technician"
+    },
+    {
+      "name": "Afif Hossain",
+      "country": "Bangladesh",
+      "position": "All-rounder",
+      "rating": 3.7,
+      "price": "$650K",
+      "img_url": "https://i.ibb.co.com/SX6jwqC8/images-6.jpg",
+      "behavior": "Innovative hitter"
+    },
+    {
+      "name": "Ebadot Hossain",
+      "country": "Bangladesh",
+      "position": "Bowler",
+      "rating": 3.6,
+      "price": "$600K",
+      "img_url": "https://i.ibb.co.com/spKpKvC5/download-1.jpg",
+      "behavior": "Bounce merchant"
+    }
+  ]
